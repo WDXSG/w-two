@@ -1,3 +1,3 @@
 # w-two
-java
+# blog
 这是我瞎搞的
